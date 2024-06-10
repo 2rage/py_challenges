@@ -1,0 +1,13 @@
+    // This is a single line comment
+    /* This is a 
+       multi-line comment */
+    int main() {
+        int x = 10;
+        if (x >= 10) {
+            x = x + 1;
+        } else {
+            x = x - 1;
+        }
+        return x;
+    }
+    
