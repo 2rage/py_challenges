@@ -23,7 +23,7 @@ pip install 2rage-py-challenges
 ## Run
 
 - `search-methods` 
-- `lixical-analyzer`
+- `lexical-analyzer`
 
 
 ## Docs
@@ -31,5 +31,5 @@ pip install 2rage-py-challenges
 
 | Path | Content |
 | ---- | ------- |
-| `lixical_analyzer/*` | Implementation of a Lexical Analyzer Based on Finite Automata |
+| `lexical_analyzer/*` | Implementation of a Lexical Analyzer Based on Finite Automata |
 | `search_methods/*` | Performance analysis of linear probing and binary search tree |
